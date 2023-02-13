@@ -1,5 +1,9 @@
 cccc
+<<<<<<< HEAD
 たけ
+=======
+mmmmmq
+>>>>>>> testing
 aaaaa
 
 bbbbb
